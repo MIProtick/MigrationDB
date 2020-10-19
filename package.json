@@ -1,0 +1,15 @@
+{
+  "name": "migration",
+  "version": "1.0.0",
+  "description": "migrate to mongo from mysql",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
