@@ -1,49 +1,87 @@
-[{
-  "_id": {
-    "$oid": "5f8f0d9af639dc22d85bd8ec"
-  },
-  "id": 1,
-  "name": "Adib",
-  "sid": "1",
-  "pcont": "01700000000"
-},{
-  "_id": {
-    "$oid": "5f8f0d9af639dc22d85bd8ed"
-  },
-  "id": 2,
-  "name": "Rohan",
-  "sid": "2",
-  "pcont": "01900000000"
-},{
-  "_id": {
-    "$oid": "5f8f0d9af639dc22d85bd8ee"
-  },
-  "id": 3,
-  "name": "Ridwan",
-  "sid": "4",
-  "pcont": "01500000000"
-},{
-  "_id": {
-    "$oid": "5f8f0d9af639dc22d85bd8ef"
-  },
-  "id": 4,
-  "name": "Dina",
-  "sid": "2",
-  "pcont": "01600000000"
-},{
-  "_id": {
-    "$oid": "5f8f0d9af639dc22d85bd8f0"
-  },
-  "id": 5,
-  "name": "Fahim",
-  "sid": "3",
-  "pcont": "01700000000"
-},{
-  "_id": {
-    "$oid": "5f8f0d9af639dc22d85bd8f1"
-  },
-  "id": 6,
-  "name": "Protick",
-  "sid": "1",
-  "pcont": "01500000000"
-}]
+[
+  // Participants
+  [{
+    "_id": {
+      "$oid": "5f8f0d9af639dc22d85bd8ec"
+    },
+    "id": 1,
+    "name": "Adib",
+    "sid": "1",
+    "pcont": "01700000000"
+  },{
+    "_id": {
+      "$oid": "5f8f0d9af639dc22d85bd8ed"
+    },
+    "id": 2,
+    "name": "Rohan",
+    "sid": "2",
+    "pcont": "01900000000"
+  },{
+    "_id": {
+      "$oid": "5f8f0d9af639dc22d85bd8ee"
+    },
+    "id": 3,
+    "name": "Ridwan",
+    "sid": "4",
+    "pcont": "01500000000"
+  },{
+    "_id": {
+      "$oid": "5f8f0d9af639dc22d85bd8ef"
+    },
+    "id": 4,
+    "name": "Dina",
+    "sid": "2",
+    "pcont": "01600000000"
+  },{
+    "_id": {
+      "$oid": "5f8f0d9af639dc22d85bd8f0"
+    },
+    "id": 5,
+    "name": "Fahim",
+    "sid": "3",
+    "pcont": "01700000000"
+  },{
+    "_id": {
+      "$oid": "5f8f0d9af639dc22d85bd8f1"
+    },
+    "id": 6,
+    "name": "Protick",
+    "sid": "1",
+    "pcont": "01500000000"
+  }],
+
+// schools
+  [{
+    "_id": {
+      "$oid": "5f8f0d9af639dc22d85bd8f2"
+    },
+    "id": 1,
+    "name": "Notre Dame College",
+    "studentNo": 4000,
+    "courseNo": 120
+  },{
+    "_id": {
+      "$oid": "5f8f0d9af639dc22d85bd8f3"
+    },
+    "id": 2,
+    "name": "Ideal School And College",
+    "studentNo": 5000,
+    "courseNo": 300
+  },{
+    "_id": {
+      "$oid": "5f8f0d9af639dc22d85bd8f4"
+    },
+    "id": 3,
+    "name": "Holy Cross College",
+    "studentNo": 1000,
+    "courseNo": 80
+  },{
+    "_id": {
+      "$oid": "5f8f0d9af639dc22d85bd8f5"
+    },
+    "id": 4,
+    "name": "Viqarunnisa School And College",
+    "studentNo": 5500,
+    "courseNo": 350
+  }]
+]
