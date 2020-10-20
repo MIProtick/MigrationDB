@@ -6,10 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Mezbaul Islam protick",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.9",
     "mysql": "^2.18.1"
   }
 }
