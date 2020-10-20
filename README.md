@@ -8,6 +8,7 @@ A simple migration application to migrate data from any MySQL DB to MongoDB.
 >  
 > *Syncronize the **Database configuration** of file with your **Database Server**.*
 
+&nbsp;
 
 ## Application setup
 ### Step1: Modify Database Configuration
@@ -15,27 +16,24 @@ A simple migration application to migrate data from any MySQL DB to MongoDB.
 > 
 > Please Modify according to your Database.
 
-
+&nbsp;
 ### Step2: Installing Dependencies
 
 ```
 npm install
 ```
 
-### Step3: Compiles and hot-reloads for development
+&nbsp;
+### Step3: Run The Application
+* *Main Application*
 ```
-npm run serve
+npm start
 ```
-
-### Compiles and minifies for production
+* *Web based*
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm start web
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Reference
+See [*MigrationDB*](https://github.com/MIProtick/MigrationDB.git).
