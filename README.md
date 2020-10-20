@@ -29,11 +29,16 @@ npm install
 ```
 npm start
 ```
+### or,
 * *Web based*
 ```
 npm start web
 ```
+> `Open the "localhost:3000/migrate" to after running web based app`
 
+
+&nbsp;
+&nbsp;
 
 ### Reference
 See [*MigrationDB*](https://github.com/MIProtick/MigrationDB.git).
