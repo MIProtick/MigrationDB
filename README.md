@@ -34,7 +34,7 @@ npm start
 ```
 npm start web
 ```
-> `Open the "localhost:3000/migrate" to after running web based app`
+> `Open the "localhost:3000/migrate" in your browser after running web based app`
 
 
 &nbsp;
