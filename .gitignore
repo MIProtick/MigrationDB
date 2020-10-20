@@ -1,4 +1,5 @@
 node_modules/
+logs/
 
 # Created by git when using merge tools for conflicts
 *.BACKUP.*
