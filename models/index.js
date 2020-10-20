@@ -16,5 +16,6 @@ client.connect(function(error) {
         console.log("MongoDB: Connection Failed.");
     }
 });
+var mongo_db = client.db(dbName)
 
-module.exports = client.db(dbName);
+module.exports = mongo_db;

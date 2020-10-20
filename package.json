@@ -4,7 +4,9 @@
   "description": "migrate to mongo from mysql",
   "main": "App.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js",
+    "start web": "node Web_based.js "
   },
   "author": "Mezbaul Islam protick",
   "license": "ISC",
